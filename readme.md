@@ -21,7 +21,7 @@
 **Installation & Setup**
 **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/mycurrency.git
+git clone https://github.com/chaitphani/MyCurrency
 cd mycurrency
 ```
 
@@ -61,7 +61,7 @@ python manage.py runserver
 | `/currencies/<currency_code>/`         | `GET`     | Retrieve a specific currency |
 | `/currencies/<currency_code>/`         | `PUT`     | Update an existing currency |
 | `/currencies/<currency_code>/`         | `DELETE`  | Delete a currency |
-| `/exchange-rate/`                      | `GET`     | Get exchange rate for a currency pair |
+| `/currency-rates/`                      | `GET`     | Get currency rates for currency within dates |
 | `/convert/`                            | `GET`     | Convert an amount between currencies |
 
 ---
