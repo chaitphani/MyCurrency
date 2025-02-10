@@ -98,7 +98,7 @@ curl -X GET "http://127.0.0.1:8000/convert/?source_currency=USD&amount=100&excha
 ---
 
 **Project Structure**
-
+```bash
 manage.py
 │── mycurrency/                  # Main project directory
 |   |── asgi.py
@@ -117,4 +117,4 @@ exchange/                     # Exchange app
 │── apps.py  
 requirements.txt                 # Dependencies
 db.sqlite3                       # Default database
-
+```
