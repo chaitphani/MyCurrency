@@ -8,7 +8,6 @@
 - Fetches **historical exchange rates**  
 - Converts amounts between different currencies  
 - **Django Rest Framework (DRF)** for a robust API  
-- **Database caching** for optimized performance  
 - Allows **dynamic provider activation & priority updates**  
 
 **Tech Stack**
