@@ -21,7 +21,7 @@
 **Installation & Setup**
 **Clone the Repository**
 ```bash
-git clone https://github.com/chaitphani/MyCurrency
+git clone https://github.com/chaitphani/MyCurrency.git
 cd mycurrency
 ```
 
